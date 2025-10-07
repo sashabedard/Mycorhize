@@ -45,10 +45,11 @@ Dans la barre supérieure :➡️ Cliquez sur “Fetch origin”, puis sur “Pu
 #### 🔸 Fetch = vérifier s’il y a des nouveautés sur GitHub🔸 Pull = télécharger ces nouveautés dans votre copie locale
 
 #### ⚠️ Faites-le chaque fois avant de commencer à travailler.
-
-#### ✏️ 3. Commit — Enregistrer vos changements localement
-
 <br>
+
+## ✏️ 3. Commit — Enregistrer vos changements localement
+
+
 
 ### Quand vous modifiez ou ajoutez des fichiers dans le dossier du projet :
 
