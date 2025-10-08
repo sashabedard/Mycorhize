@@ -1,0 +1,71 @@
+Concept Central & Thématique
+
+· Relation Homme-Nature : Le projet explore la relation disruptive de l'homme avec l'écosystème. L'accent est mis sur le fait que le bénéfice n'est pas mutuel (l'homme prend à la nature sans vraiment lui rendre) contrairement à des symbioses naturelles comme les mycorhizes (champignons/arbres).
+· Émerveillement vs. Inconnu : Il s'agit de montrer non seulement la beauté connue de la nature, mais aussi sa part mystérieuse et inconnue (ex: la mousse, les écosystèmes souterrains).
+· Questionnement philosophique : Le projet interroge le rôle et la légitimité de l'homme à intervenir dans un système qui n'est pas le sien.
+
+Expérience Utilisateur et Scénographie
+
+· Dualité Jour/Nuit : Une idée forte est de créer une expérience double :
+  · Jour : "Low-tech", simple, qui pourrait montrer l'intervention humaine brute.
+  · Nuit : Effet "waouh", magique, utilisant par exemple de l'électroluminescence (L-Wire) pour révéler la beauté ou la vie cachée du système.
+· Interaction Collective (Multijoueur) : L'interaction est conçue comme un travail d'équipe. La survie du système dépend de la participation collective.
+  · Équilibre et Conséquences : L'idée est que les joueurs peuvent mal interagir et endommager le système. Il faut trouver un équilibre et peut-être laisser le temps à l'écosystème d'absorber les interactions.
+  · Feedback visuel : Utiliser différentes couleurs pour représenter différentes espèces ou zones, et montrer l'interconnexion entre elles.
+· Feedback original : Au lieu d'indicateurs techniques (comme une barre d'énergie), trouver une manière plus sensible et artistique de montrer l'état du système (ex: un "éloge" de l'énergie).
+Aspects Techniques et Artistiques
+
+· Low-tech & Électroluminescence : Privilégier des dispositifs simples, avec une consommation d'énergie limitée. L'électroluminescence (EL-Wire) est identifiée comme une technologie clé pour l'effet nocturne.
+· Simplicité et Itération : Commencer par des dispositifs simples et ajouter de la complexité progressivement, en s'appuyant sur une base solide.
+· Univers original : Il est important de trouver une esthétique et un univers qui évitent les clichés sur la nature, pour créer une expérience originale et immersive.
+
+Questions en Suspens et Points à Approfondir
+
+· But de l'interaction : Pourquoi les gens interagissent-ils ? Quel est l'objectif final ?
+· Risque et Déséquilibre : Comment représenter le risque de mal faire ? Comment gérer les actions négatives ou excessives des utilisateurs ?
+· Fiction et Profondeur : Le projet pourrait gagner à intégrer une part de fiction pour renforcer sa portée narrative et conceptuelle.
+· Sentiment & Immersion : Comment faire ressentir un "sentiment désordinaire" et renforcer l'immersion pour les interactions ? 
+
+
+COMMENTAIRES DE FIN
+
+Points Obligatoires
+
+Positionnement de l'Interacteur :
+
+Problème : Le positionnement actuel place l'interacteur au centre de tout, ce qui n'est pas représentatif de sa place dans cet écosystème.
+
+Action : Approfondir la réflexion pour adopter un positionnement plus humble et désanthropologiser l'humain (c'est-à-dire le décentrer du récit).
+
+
+Concept de Futurité/Univers :
+La futurité n'est pas assez évidente. Il est nécessaire de proposer un univers clair et construit.
+
+Définir le narratif de manière plus complète : Où, quand, pourquoi, etc.
+
+Limiter le concept principal à 3 à 5 points maximum.
+
+
+Interconnexion des Éléments :
+La canopée et le mycélium doivent être interconnectés.
+
+Construction du Monde :
+Évoquer la construction d'un monde à partir du thème.
+
+
+Points Facultatifs
+
+Sur le Concept et l'Interaction
+Priorité Conceptuelle : Se concentrer sur le concept de Rhyzome : comment connecter les objets ensemble et comment ils modifient leur environnement.
+
+Nature de l'Interaction :
+L'interaction doit être abordée dans le soin et la connexion (l'attention mutuelle), et non dans la simple réactivité.
+
+ La projection devrait est considérée comme plus secondaire.
+
+Médiation : La médiation devrait faire partie intégrante de l'œuvre.
+
+Mapping : Aborder le Mapping comme un art et non comme un simple support de projection ; l'inclure dans l'univers du projet.
+
+L'approche "Low-tech" est un angle intéressant à explorer. 
+
