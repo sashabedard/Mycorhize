@@ -152,6 +152,8 @@ Version sur GitHub
 
 <br>
 
+# DEMANDER AU ROI SASHA SI VOUS SAVEZ PAS QUOI FAIRE AU MOMENT D'UN CONFLIT
+
 ## 📊 7. Vérifier l’historique
 
 Vous pouvez voir toutes les modifications passées dans l’onglet History :
